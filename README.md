@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Nawal Krishna S N</h1>
+<h1 align="center">Hey there! 👋 I'm Nawal Krishna S</h1>
 <h4 align="center">🎓  Engineering @ Computer Science and Engineering GCE, Kannur | 📚 Lifelong Learner</h4>
 <p align="center">
   🌐 Exploring Data Science, Web Tech & AI | 🧠 Learning by Building | ⚡ Tech for Impact
