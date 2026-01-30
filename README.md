@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing Masters AI/ML and Data Science in IIIT  Kottayam
+- 🎓 Pursuing Masters in AI/ML and Data Science from IIIT  Kottayam
 - 🎓 CSE graduate from GCEK
 - 💡 Passionate about building intelligent systems & impactful applications  
 - 🌱 Currently learning: API Development, Chatbots development, MLOps, LLMs  
